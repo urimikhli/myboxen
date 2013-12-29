@@ -122,7 +122,7 @@ If that runs cleanly, you're in good shape.
 
 2) follow instructions in https://help.github.com/articles/generating-ssh-keys for generating new key for the new machine
 
-
+3) Install Macvim, NERDTree, and Taglist
 #####
 
 
