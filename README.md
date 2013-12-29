@@ -117,6 +117,15 @@ Once your shell is ready, open a new tab/window in your Terminal
 and you should be able to successfully run `boxen --env`.
 If that runs cleanly, you're in good shape.
 
+## Extras for Uri
+1) copy bashrc and bash_profile from my boxen urimikhli/myboxen.git  to ~/ as .bashrc and .bash_profile 
+
+2) follow instructions in https://help.github.com/articles/generating-ssh-keys for generating new key for the new machine
+
+
+#####
+
+
 ## What You Get
 
 This template project provides the following by default:
