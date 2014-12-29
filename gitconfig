@@ -1,0 +1,10 @@
+[pull]
+	rebase = true
+[rerere]
+	enabled = true
+[alias]
+	lg = log --oneline --decorate --all --graph
+	s = status -s
+[color]
+	ui = true
+
