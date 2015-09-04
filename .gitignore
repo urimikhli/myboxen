@@ -10,3 +10,6 @@
 /shared/*
 !/shared/README.md
 /vendor/gems/
+.idea
+.swo
+.swp
