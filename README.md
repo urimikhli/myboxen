@@ -6,6 +6,19 @@ The Boxen rubygem and the Boxen puppet modules are only a framework for getting
 things done.
 This repository template is just a basic example of _how_ to do things with them.
 
+## Extras for Uri
+* copy bashrc and bash_profile from my boxen urimikhli/myboxen.git  to ~/ as .bashrc and .bash_profile 
+
+* follow instructions in https://help.github.com/articles/generating-ssh-keys for generating new key for the new machine
+
+* Install Macvim, NERDTree, and Taglist, Vundul, Vim-rspec
+    * after that install myboxen gvimrc
+    * 
+#####
+
+
+
+
 ## Getting Started
 
 To give you a brief overview, we're going to:
@@ -116,14 +129,6 @@ If you do have a `~/.bashrc` or `~/.zshrc`, your shell will not use
 Once your shell is ready, open a new tab/window in your Terminal
 and you should be able to successfully run `boxen --env`.
 If that runs cleanly, you're in good shape.
-
-## Extras for Uri
-1) copy bashrc and bash_profile from my boxen urimikhli/myboxen.git  to ~/ as .bashrc and .bash_profile 
-
-2) follow instructions in https://help.github.com/articles/generating-ssh-keys for generating new key for the new machine
-
-3) Install Macvim, NERDTree, and Taglist
-#####
 
 
 ## What You Get
