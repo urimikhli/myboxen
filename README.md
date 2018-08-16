@@ -13,7 +13,11 @@ This repository template is just a basic example of _how_ to do things with them
 
 * Install Macvim, NERDTree, and Taglist, Vundul, Vim-rspec
     * after that install myboxen gvimrc
-    * 
+    * Macvim=gvim need to rename gvimrc to vimrc
+
+* install gitx-dev
+   * http://rowanj.github.io/gitx/
+   
 #####
 
 
