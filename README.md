@@ -9,7 +9,7 @@ This repository template is just a basic example of _how_ to do things with them
 ## Extras for Uri
 * copy bashrc and bash_profile from my boxen urimikhli/myboxen.git  to ~/ as .bashrc and .bash_profile 
 
-* follow instructions in https://help.github.com/articles/generating-ssh-keys for generating new key for the new machine
+* follow instructions in https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/  Or https://help.github.com/articles/generating-ssh-keys for generating new key for the new machine
 
 * Install Macvim, NERDTree, and Taglist, Vundul, Vim-rspec
     * after that install myboxen gvimrc
