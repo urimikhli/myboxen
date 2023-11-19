@@ -1,3 +1,5 @@
+[user]
+	email = urimikhli@gmail.com
 [pull]
 	rebase = true
 [rerere]
@@ -7,4 +9,3 @@
 	s = status -s
 [color]
 	ui = true
-
